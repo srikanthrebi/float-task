@@ -1,0 +1,27 @@
+#float{
+    margin: 140px 0;
+}
+#float-1{
+    background-color: red;
+    width: 247px;
+    height: 256px;
+    margin: 0 35px;
+    float: left;
+}
+#float-2{
+    background-color: #126f16;
+    width: 247px;
+    height: 256px;
+    margin: 0 -35px;
+    float: left;
+}
+#float-3{
+    background-color: black;
+    width: 495px;
+    height: 292px;
+    margin: 0 35px
+}
+h1{
+    color: white;
+    text-align: center;
+}
